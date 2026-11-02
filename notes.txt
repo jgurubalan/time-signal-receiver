@@ -1,0 +1,10 @@
+Date: 2-11-26 @ 12.35
+Execute:
+python3 -m src.listen -f 5
+WWV Time Signal Receiver
+========================
+Selected frequencies:
+  5 MHz
+
+Configuration validated.
+SDR hardware is not accessed in this version.
