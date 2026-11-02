@@ -1,0 +1,11 @@
+numpy==2.5.3
+packaging==26.3
+pandas==3.0.6
+python-dateutil==2.9.0.post0
+PyYAML==6.0.3
+setuptools==84.0.0
+six==1.17.0
+wheel==0.48.0
+pyrtlsdr 
+scipy 
+sounddevice

@@ -1,0 +1,14 @@
+location:
+  name: "VU24JD-Home"
+
+  gps:
+    latitude: 11.947736
+    longitude: 79.821005
+    altitude_m: 15
+
+  maidenhead:
+    locator: MK91VW
+    precision: 6
+
+  timezone: "Asia/Kolkata"
+  coordinate_system: "WGS84"
